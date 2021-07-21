@@ -12,5 +12,6 @@ BlockChain Learning Material
 10. Bitcoin Developer Guide (https://developer.bitcoin.org/devguide/index.html)
 11. Vitalik Buterin. Talk 1 (https://www.youtube.com/watch?v=3x1b_S6Qp2Q) Talk 2 (https://www.youtube.com/watch?v=XW0QZmtbjvs&t=7206s)
 12. Genesis Block (https://www.blockchain.com/btc/block/1)
-13. Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol (https://eprint.iacr.org/2016/889.pdf)
-14. Cardano Research (https://iohk.io/en/research/library/authors/aggelos-kiayias/)
+13. Blockchain Core Visual Explanation (https://www.youtube.com/watch?v=_160oMzblY8&t=1s)
+14. Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol (https://eprint.iacr.org/2016/889.pdf)
+15. Cardano Research (https://iohk.io/en/research/library/authors/aggelos-kiayias/)
